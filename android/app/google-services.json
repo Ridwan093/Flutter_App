@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749666773418",
+    "firebase_url": "https://gossip-ce3a2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gossip-ce3a2",
+    "storage_bucket": "gossip-ce3a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749666773418:android:6e6a51a96c2854e032a3d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749666773418-a1r5nbe7poame0lpnj2nbendh09ta5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbphVEnlkIgnz24zlJO4YKfHxoMKJG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749666773418-a1r5nbe7poame0lpnj2nbendh09ta5q8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749666773418-b4m3tcj0bh82q3alrhq1aijrum68mdo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gossip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
